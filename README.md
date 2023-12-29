@@ -1,3 +1,3 @@
-- 👋 Hi, @IamDevelupper
+- 👋 Hi, @dotwilliamrc
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css and JavaScript
+- 🌱 I’m currently learning spring technologies 
